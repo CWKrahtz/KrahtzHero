@@ -25,7 +25,7 @@
 - [Final Outcome](#final-outcome)
     - [Mockups](#mockups)
     - [Video Demonstration](#video-demonstration)
-- [Conclusion](#conclusion)
+- [Conclution](#conclution)
 
 # Getting Started with Create React App
 
