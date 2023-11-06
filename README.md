@@ -157,15 +157,15 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 ### Challenges
 * The understanding and implementation of react in the start was hard but with the help of other people it got easier.
 * The fact that the API was not working for most of the time was stressing me out.
-* The fix was to add '.php' in the Superhero API and I needed to figure out how to create the 'hash' in the MArvel API.
+* The fix was to add '.php' in the Superhero API and I needed to figure out how to create the 'hash' in the Marvel API.
 * The chart Options do not want to be updated
 
 # Future Implementation
 * Add chart limits for the Timeline page to see a change in the time.
-* DIsplay more heroes in the dropdown to increase to variety in heroes that the user can select from
+* Display more heroes in the dropdown to increase to variety of heroes that the user can select from
 * Display more general information on the dashboard page. 
 * Display more information on the selected character on the compare page and the timeline page. Currently, it is only data being displayed on a chart.
-* INcrease the size of the Charts on both pages (compare and timeline).
+* Increase the size of the Charts on both pages (compare and timeline).
 
 # Final Outcome
 ## Mockups
@@ -174,7 +174,7 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 ![Mockup3](images/Mockups/Mockup3.png)<br>
 
 ## Video Demonstration
-<p>You can view the walkthough video <a href="https://drive.google.com/file/d/1b79qeTLukeJpwTGbaJ-9H6IEpOF9fH-F/view?usp=sharing">here</a></p>
+<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1b79qeTLukeJpwTGbaJ-9H6IEpOF9fH-F/view?usp=sharing">here</a></p>
 
 # Conclution
-The use of react, chart.js, bootstrap normal styling, and HTML code was easier to use together and faster. I would recommend using react to create a website.
+The use of react, chart.js, bootstrap normal styling, and HTML code was easier to use together and faster. I would recommend using React to create a website.
