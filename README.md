@@ -14,9 +14,9 @@
     - [Timeline Page](#timeline-page)
 - [Concept Process](#concept-process)
     - [Ideation](#ideation)    
-    - [The APIs I used](#the_apis_i_used)    
+    - [The API](#the_api)    
     - [Wireframes](#wireframes)    
-    - [Custom UI](#custom_ui)    
+    - [UI](#ui)    
 - [Developement Process](#developement_process)
     - [Implementation Process](#implementation_process)
         - [Highlights](#highlights)
@@ -123,7 +123,7 @@ These links I used for inspiration to create all of this.<br>
 *    <a href="https://pin.it/6ofFcjl">DV200</a>
 *    <a href="https://pin.it/6ofFcjl">DV200 Branded Component - Pinterest</a>
 
-## The APIs I used
+## The API
 
 *    <a href="https://www.superheroapi.com/">Superhero API - Compare Page</a>
 *    <a href="https://developer.marvel.com/">Marvel Developer</a>
@@ -133,7 +133,7 @@ These links I used for inspiration to create all of this.<br>
 ![Compare_Wireframe](images/Wireframes/Comparison.png)<br>
 ![Timeline_Wireframe](images/Wireframes/Timeline.png)<br>
 
-## Custom UI
+## UI
 ![Dashboard_Final_Look](images/UI/Dashboard.png)<br>
 ![Compare_Final_Look](images/UI/Compare.png)<br>
 ![Timeline_Final_Look](images/UI/Timeline.png)<br>
