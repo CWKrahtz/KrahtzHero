@@ -26,6 +26,7 @@
     - [Mockups](#mockups)
     - [Walkthrough](#walkthrough)
 - [Conclusion](#conclusion)
+- [Author](#author)
 - [Acknowledgements](#acknowledgements)
 
 # Getting Started with Create React App
