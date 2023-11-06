@@ -130,14 +130,20 @@ These links I used for inspiration to create all of this.<br>
 *    <a href="https://developer.marvel.com/">Marvel Developer</a>
 
 ## Wireframes
-![Dashboard_Wireframe](./images/Wireframes/Dashboard.png)<br>
-![Compare_Wireframe](images/Wireframes/Comparison.png)<br>
-![Timeline_Wireframe](images/Wireframes/Timeline.png)<br>
+### Dashboard
+![Dashboard_Wireframe](./images/Wireframes/Dashboard.png)
+### Compare
+![Compare_Wireframe](images/Wireframes/Comparison.png)
+### Timeline
+![Timeline_Wireframe](images/Wireframes/Timeline.png)
 
 ## UI
-![Dashboard_Final_Look](images/UI/Dashboard.png)<br>
-![Compare_Final_Look](images/UI/Compare.png)<br>
-![Timeline_Final_Look](images/UI/Timeline.png)<br>
+### Dashboard
+![Dashboard_Final_Look](images/UI/Dashboard.png)
+### Compare
+![Compare_Final_Look](images/UI/Compare.png)
+### Timeline
+![Timeline_Final_Look](images/UI/Timeline.png)
 
 
 # Developement Process
@@ -161,7 +167,7 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 * The fix was to add '.php' in the Superhero API and I needed to figure out how to create the 'hash' in the Marvel API.
 * The chart Options do not want to be updated
 
-# Future Implementation
+## Future Implementation
 * Add chart limits for the Timeline page to see a change in the time.
 * Display more heroes in the dropdown to increase to variety of heroes that the user can select from
 * Display more general information on the dashboard page. 
