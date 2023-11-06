@@ -1,7 +1,30 @@
+<h1 align="center" style="padding:0;margin:0;">KrahtzHero: a web application created using React</h1>
+<h3 align="center" style="padding:0;margin:0;">Website</h3>
+<h4 align="center">Christian Krahtz</h4>
+<h6 align="center">DV200 | Term 1</h6>
 
-# About The Project
-## Description
-## Build With
+## Table of Contents
+
+- [Getting Started](#getting-started-with-create-react-app)
+    - [Script](#available-scripts)
+    - [Built With](#built-with)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [How to install](#how-to-install)
+- [Features and Functionality](#features-and-functionality)
+- [Concept Process](#concept-process)
+    - [Ideation](#ideation)
+    - [Wireframes](#wireframes)
+- [Development Process](#development-process)
+    - [Implementation Process](#implementation-process)
+        - [Highlights](#highlights)
+        - [Challenges](#challenges)
+    - [Future Implementation](#peer-reviews)
+- [Final Outcome](#final-outcome)
+    - [Mockups](#mockups)
+    - [Video Demonstration](#video-demonstration)
+- [Conclusion](#conclusion)
+- [License](#license)
 
 # Getting Started with Create React App
 
