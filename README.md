@@ -24,7 +24,7 @@
     - [Future Implementation](#future-implementation)
 - [Final Outcome](#final-outcome)
     - [Mockups](#mockups)
-    - [Video Demonstration](#video-demonstration)
+    - [Walkthrough](#walkthrough)
 - [Conclusion](#conclusion)
 - [Acknowledgements](#acknowledgements)
 
@@ -174,7 +174,7 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 ![Mockup2](images/Mockups/Mockup2.png)<br>
 ![Mockup3](images/Mockups/Mockup3.png)<br>
 
-## Video Demonstration
+## Walkthrough
 <p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1b79qeTLukeJpwTGbaJ-9H6IEpOF9fH-F/view?usp=sharing">here</a></p>
 
 # Conclusion
