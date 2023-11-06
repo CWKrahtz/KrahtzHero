@@ -9,7 +9,7 @@
     - [Script](#available-scripts)
     - [Learn More](#learn-more)
 - [Features And Functionality](#features-and-functionality)
-    - [Home Page/Dashboard](#home-page/dashboard)
+    - [Home Page/Dashboard](#home-page)
     - [Compare Page](#compare-page)
     - [Timeline Page](#timeline-page)
 - [Concept Process](#concept-process)
@@ -25,7 +25,8 @@
 - [Final Outcome](#final-outcome)
     - [Mockups](#mockups)
     - [Video Demonstration](#video-demonstration)
-- [Conclution](#conclution)
+- [Conclusion](#conclusion)
+- [Acknowledgements](#acknowledgements)
 
 # Getting Started with Create React App
 
@@ -99,7 +100,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Features And Functionality
-## Home Page/Dashboard
+## Home Page
 
 The home page or the dashboard I created to inform the user more about what the project is about and what datasets will be used.
     
@@ -176,5 +177,13 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 ## Video Demonstration
 <p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1b79qeTLukeJpwTGbaJ-9H6IEpOF9fH-F/view?usp=sharing">here</a></p>
 
-# Conclution
+# Conclusion
 The use of react, chart.js, bootstrap normal styling, and HTML code was easier to use together and faster. I would recommend using React to create a website.
+
+# Acknowledgements
+
+- [W3Schools](https://www.w3schools.com/)
+- [MDBootstrap](https://mdbootstrap.com/docs/react/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Figma](https://www.figma.com/)
+- [ChatGPT](https://chat.openai.com/)
