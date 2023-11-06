@@ -7,11 +7,13 @@
 
 - [Getting Started](#getting-started-with-create-react-app)
     - [Script](#available-scripts)
-    - [Built With](#built-with)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [How to install](#how-to-install)
-- [Features and Functionality](#features-and-functionality)
+    - [Learn More](#learn-more)
+- [Features And Functionality](#features-and-functionality)
+    - [Home Page/Dashboard](#home-page/dashboard)
+    - [Compare Page](#compare-page)
+    - [Timeline Page](#timeline-page)
+- [Concept Process](#concept-process)
+    - [Ideation](#ideation)    
 - [Concept Process](#concept-process)
     - [Ideation](#ideation)
     - [Wireframes](#wireframes)
@@ -102,7 +104,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Home Page/Dashboard
     The home page or the dashboard I created to inform the user more on what the project is about and what datasets will be used.
     
-## Comapare Page
+## Compare Page
     There are a total of 730 heroes but due to the loading time I only used a total of 20 heroes per dropdown. It gives a veriety of heroes to compare and The amount can be increased or decrease on the developer side.
 
     The user can change the selected hero to update the given data that is being displayed on the chart(s). The user will also be able to change the chart type by clicking on the button of the given chart name. 
