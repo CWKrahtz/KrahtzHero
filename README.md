@@ -186,6 +186,11 @@ After the APIs were fixed I used Chart.js and react with Axios to update the use
 # Conclusion
 The use of react, chart.js, bootstrap normal styling, and HTML code was easier to use together and faster. I would recommend using React to create a website.
 
+# Author
+-    Name: Christian Krahtz
+-    Email: 221198@virtualwindow.co.za
+-    GitHub: <a href="https://github.com/CWKrahtz">CWKrahtz</a>
+
 # Acknowledgements
 
 - [W3Schools](https://www.w3schools.com/)
